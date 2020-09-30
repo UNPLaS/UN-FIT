@@ -1,0 +1,1 @@
+UN-FIT is a fault injection tool for microprocessors, developed at the Universidad Nacional de Colombia, adaptable to different architectures. The current version of UN-FIT is based on QEMU and allows injection campaigns on ARM and RISC-V ISA based-processors.
