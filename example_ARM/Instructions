@@ -1,0 +1,3 @@
+1. make
+2. bash pc_trace_v2.sh ln2.elf 0 vexpress-a15 64k 60
+3. bash UNFIT-arm-qemu.sh ln2.elf vexpress-a15 64k 100 0 0 3 14
